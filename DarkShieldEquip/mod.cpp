@@ -1,0 +1,11 @@
+name = "DarkShield Equipment Pack";
+picture = "ds_equip\ds_equip_ico.paa";
+logoSmall = "ds_units\ds_logo_small.paa";
+logo = "ds_units\ds_logo.paa";
+logoOver = "ds_units\ds_logo.paa";
+action = "";
+tooltipOwned = "DarkShield Equipment ModPack";
+dlcColor[] = {0.51,0.51,0.51,1};
+overview = "This Modpack is for the DarkShield Arma3 group and contains various .";
+hideName = 0;
+hidePicture = 0;
