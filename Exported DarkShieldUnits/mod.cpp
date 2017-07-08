@@ -1,0 +1,11 @@
+name = "DarkShield Unit Pack";
+picture = "DarkShieldUnits\ds_units_ico.paa";
+logoSmall = "DarkShieldUnits\ds_logo_small.paa";
+logo = "DarkShieldUnits\ds_logo.paa";
+logoOver = "DarkShieldUnits\ds_logo.paa";
+action = "";
+tooltipOwned = "DarkShield Unit Pack";
+dlcColor[] = {0.51,0.51,0.51,1};
+overview = "This Modpack is for the DarkShield Arma3 group and contains our custom configed units.";
+hideName = 0;
+hidePicture = 0;
